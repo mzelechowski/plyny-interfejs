@@ -2,7 +2,7 @@ package pl.mzelechowski;
 
 public class Water implements Liquid {
     @Override
-    public String  smell() {
+    public String smell() {
         return "No smell";
     }
 
@@ -17,5 +17,4 @@ public class Water implements Liquid {
 
         return "No color";
     }
-
 }

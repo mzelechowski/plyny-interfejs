@@ -2,7 +2,7 @@ package pl.mzelechowski;
 
 public class Acid implements Liquid {
     @Override
-    public String  smell() {
+    public String smell() {
         return "Oh, my butterfly leg. It's stinkkly";
     }
 

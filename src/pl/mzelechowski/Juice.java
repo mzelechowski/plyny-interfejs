@@ -2,7 +2,8 @@ package pl.mzelechowski;
 
 public class Juice implements Liquid {
     @Override
-    public String  smell() {
+    public String smell() {
+
         return "Like fresh mornign";
     }
 
@@ -17,5 +18,4 @@ public class Juice implements Liquid {
 
         return "Its orange";
     }
-
 }
